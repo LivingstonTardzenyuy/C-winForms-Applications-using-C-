@@ -1,0 +1,10 @@
+H:\C# windows Forms\CalculatorApp\CalculatorApplication\CalculatorApplication\bin\Release\Calculator.exe.config
+H:\C# windows Forms\CalculatorApp\CalculatorApplication\CalculatorApplication\bin\Release\Calculator.exe
+H:\C# windows Forms\CalculatorApp\CalculatorApplication\CalculatorApplication\bin\Release\Calculator.pdb
+H:\C# windows Forms\CalculatorApp\CalculatorApplication\CalculatorApplication\obj\Release\CalculatorApplication.csprojResolveAssemblyReference.cache
+H:\C# windows Forms\CalculatorApp\CalculatorApplication\CalculatorApplication\obj\Release\CalculatorApplication.AboutBox1cs.resources
+H:\C# windows Forms\CalculatorApp\CalculatorApplication\CalculatorApplication\obj\Release\CalculatorApplication.Form1.resources
+H:\C# windows Forms\CalculatorApp\CalculatorApplication\CalculatorApplication\obj\Release\CalculatorApp.Properties.Resources.resources
+H:\C# windows Forms\CalculatorApp\CalculatorApplication\CalculatorApplication\obj\Release\CalculatorApplication.csproj.GenerateResource.Cache
+H:\C# windows Forms\CalculatorApp\CalculatorApplication\CalculatorApplication\obj\Release\Calculator.exe
+H:\C# windows Forms\CalculatorApp\CalculatorApplication\CalculatorApplication\obj\Release\Calculator.pdb

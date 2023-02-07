@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApplication", "CalculatorApplication\CalculatorApplication.csproj", "{1DF61909-0450-4C05-8E0A-EF7BBB01A9F0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Calculator Setup", "..\..\Calculator released\Calculator Setup\Calculator Setup.vdproj", "{EDA30FB1-1379-44F3-BF1C-8A9EA72D2ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF61909-0450-4C05-8E0A-EF7BBB01A9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF61909-0450-4C05-8E0A-EF7BBB01A9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF61909-0450-4C05-8E0A-EF7BBB01A9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF61909-0450-4C05-8E0A-EF7BBB01A9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA30FB1-1379-44F3-BF1C-8A9EA72D2ADD}.Debug|Any CPU.ActiveCfg = Debug
+		{EDA30FB1-1379-44F3-BF1C-8A9EA72D2ADD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
