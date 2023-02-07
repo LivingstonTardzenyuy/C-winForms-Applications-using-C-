@@ -1,0 +1,10 @@
+H:\C# windows Forms\CalculatorApplication\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+H:\C# windows Forms\CalculatorApplication\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+H:\C# windows Forms\CalculatorApplication\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+H:\C# windows Forms\CalculatorApplication\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.xml
+H:\C# windows Forms\CalculatorApplication\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Calculator.resources
+H:\C# windows Forms\CalculatorApplication\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Resources.resources
+H:\C# windows Forms\CalculatorApplication\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.vbproj.GenerateResource.Cache
+H:\C# windows Forms\CalculatorApplication\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+H:\C# windows Forms\CalculatorApplication\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.xml
+H:\C# windows Forms\CalculatorApplication\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
